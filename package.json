@@ -1,0 +1,23 @@
+{
+  "name": "epic_games_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ghost-cursor-playwright-port": "^1.4.3",
+    "node-telegram-bot-api": "^0.67.0",
+    "patchright": "^1.57.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
